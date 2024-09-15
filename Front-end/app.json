@@ -1,0 +1,15 @@
+{
+  "name": "EDream",
+  "displayName": "EDream",
+  "expo": {
+    "plugins": [
+      "@config-plugins/react-native-blob-util",
+      "@config-plugins/react-native-pdf"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d3ed0672-94f6-43b5-9798-d6b36cd7c5a1"
+      }
+    }
+  }
+}
